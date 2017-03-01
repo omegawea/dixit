@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/background_dark">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/background_dark"
+        android:weightSum="1">
+
+        <Button
+            android:text="Music"
+            android:layout_width="wrap_content"
+            android:id="@+id/bMusic"
+            android:layout_centerHorizontal="true"
+            android:textSize="10sp"
+            android:layout_height="35dp"
+            android:layout_weight="0.55" />
+
+        <Button
+            android:text="Sound"
+            android:layout_width="wrap_content"
+            android:id="@+id/bSound"
+            android:layout_centerHorizontal="true"
+            android:textSize="10sp"
+            android:layout_height="35dp"
+            android:layout_weight="0.46" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:id="@+id/tvScore"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@android:color/background_light"
+        android:textSize="16sp" />
+
+    <ScrollView
+        android:id="@+id/svScore"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <TableLayout
+            android:id="@+id/tlScore"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </ScrollView >
+
+</LinearLayout>

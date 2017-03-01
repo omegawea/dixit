@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="card_set">
+        <item>@drawable/card_s0_0</item>
+        <item>@drawable/card_s0_1</item>
+        <item>@drawable/card_s0_2</item>
+        <item>@drawable/card_s0_3</item>
+        <item>@drawable/card_s0_4</item>
+        <item>@drawable/card_s0_5</item>
+        <item>@drawable/card_s0_6</item>
+    </integer-array>
+
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_horizontal_margin"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:background="@android:color/background_dark">
+
+    <HorizontalScrollView
+        android:id="@+id/hsvCard"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bGame"
+        android:layout_below="@+id/tvStory">
+        <LinearLayout
+            android:id="@+id/llCard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            />
+    </HorizontalScrollView >
+
+    <Button
+        android:text="Score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/bScore"
+        android:textSize="10sp"
+        android:layout_alignParentTop="true" />
+
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="STATUS:"
+        android:layout_toLeftOf="@+id/bScore"
+        android:layout_toStartOf="@+id/bScore" />
+
+    <TextView
+        android:id="@+id/tvStory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Story"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textStyle="normal|bold"
+        android:padding="5dp"
+        android:textAlignment="center"
+        android:layout_below="@+id/bScore"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="24sp"
+        android:background="@drawable/border"
+        android:paddingBottom="15dp" />
+
+    <TextView
+        android:id="@+id/tvStoryteller"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Story"
+        android:textAppearance="@android:style/TextAppearance.Material.Small"
+        android:padding="5dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toLeftOf="@+id/bScore"
+        android:layout_toStartOf="@+id/bScore"
+        android:layout_above="@+id/tvStory"
+        android:layout_below="@+id/tvStatus" />
+
+    <Button
+        android:text="Wait a moment."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bGame"
+        android:elevation="0dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toEndOf="@+id/tvStoryteller"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

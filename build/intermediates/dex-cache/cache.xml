@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.2.0_b330084061eb073f013616c98ff474976bd81bdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="501cb9fe5b5d8e88c23eae5e2de5ba006fe4c8c7">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c1c77eb0c2eb88848470b76cf951b5f22c6e6d90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SF\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_eb3bc072b287624fb836d89936b8ab660868714b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.2.0_d4e9f41778892e314c7c09e2e3aa580cd753af05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.2.0_1a83ff274e5b69d550d05b528ba996d59d08b74e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.0_3d6b8e4ba0dc369ea4469a2f8c3741bc874dcd00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.2.0_5f50225243cbf514a3f9b70395518ba7ef7981d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_4eb0735f8c381c3bb91ee591a3ee5fd62f04c89d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_59494687246e673cc47a3a1894f4b424257535d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041108291e64f939592960295976f07de3dba442">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6d3183f749bf2bde185c9c1b3d66fc481205751f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_e3f879fc99f68a26faa507e4e06ace57423aa1a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.2.0_aa02a70c9a145b4a80f83675baf57f5493440f40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.2.0_ad8017bb47b7cd14590d5fcd0e820b5a16ae91c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_586f1408c8901ed2d513f5b56180c545bb813edd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_2159dc652f49eb6e97ffa75538575a6da169029a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\SF\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_2c486f91811cdd26aa2aae021eba2f63de14d0d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_fcd16b0a06f199cd499f227b0eafa970e1285604\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_ff0fc6f2899000d3f34d0f7d145d6e474bbe51f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SF\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_02bf492b674b9563d94a71c65f1255517a1c55b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_aa6d661c3235e2df8310a25812be56ad08517e19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.2.0_bc272309c10b0266859672a46a7b1eb9bc3dc426\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_4e0c4d74ea302450f2ce3ce12cec518adcd46cee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.0_a86b4cc9246d819247f79ecc0a32cd41c2feca97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\GitHub\dixit\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="F:\GitHub\dixit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_37878f7e6d2b23619faa3b318a5b10ef47d62649\classes.dex" />
+    </item>
+
+</items>
